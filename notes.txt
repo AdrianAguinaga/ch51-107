@@ -1,0 +1,12 @@
+MAC - python3
+Windows - py
+
+To install we need the pip: py -m pip install
+To create a Virtual Enviroment
+1. py -m pip install virtualenv
+2. py -m venv venv
+3. #actitave the Virutal Enviroment
+a)source venv/bin/activate   #MAC
+b)venv\Scripts\activate      #Windows
+
+4)py -m pip install flask
